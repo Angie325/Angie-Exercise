@@ -1,37 +1,40 @@
 .Introduction {
-    color: black;
-
-
-    font-style: bolder;
-    text-align: center;
-    font-size: 30px;
-    line-height: 2;
-    background-color: darkcyan;
-    padding: 100px;
-    margin: 100px;
-    border-radius: 100;
-   
-
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: white;
 }
 
 .body {
-    font-size: 20px;
+
     text-align: left;
-    background-color: white;
-    color: black;
-    font-family: Arial, Helvetica, sans-serif;
-    line-height: 1.5;
-    padding: 60px;
-    margin: 60px;
-    border-radius: 60px
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style: normal;
 
 }
-.image {
-         margin-left: 40;
-          margin-right: 40;
-          max-width: 50;
-          height: 50;
-        
-         border-radius: 40%
+
+.part1 {
+    text-align: left;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+.part2 {
+    text-align: left;
+    font-size: 25px;
+    line-height: 1.5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.part3 {
+    text-align: left;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
       
-        }
+}
+.part4 {
+    text-align: left;
+
+}

@@ -15,7 +15,7 @@
 }
 
 .body {
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
     background-color: white;
     color: black;
@@ -29,7 +29,8 @@
 .image {
          margin-left: 40;
           margin-right: 40;
-          
+          max-width: 50;
+          height: 50;
         
          border-radius: 40%
       

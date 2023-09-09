@@ -3,8 +3,9 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
   
-    margin-right: 3%;
+    flex-direction: row;
     
+
 }
 
 .body {
@@ -58,6 +59,7 @@
     margin-bottom: 10%;
     margin-left: 10%;
     margin-right: 10%;
+    
 
 
 
@@ -122,5 +124,62 @@
     text-align: left;
     font-size: 25px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-style: oblique;
+    font-style: inherit;
+
+}
+.part15 {
+    text-align: left;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+
+
+}
+.part16 {
+    text-align: left;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+}
+.part17 {
+    text-align: left;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    font-style: normal;
+    
+    
+}
+.part18 {
+    text-align: left;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.part19 {
+    text-align: center;
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    line-height: 1.5;
+}
+.part20 {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    flex-direction: row;
+}
+.referee1 {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    line-height: 1.5;
+}
+.referee2 {
+    font-size: 25;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    font-style: normal;
+    line-height: 1.5;
+    flex-direction: row;
+
+    
 }
